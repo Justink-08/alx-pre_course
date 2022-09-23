@@ -1,2 +1,1 @@
-my first redme
-my first readme
+changing the content of my readme from the git interface
